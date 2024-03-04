@@ -11,6 +11,6 @@
 * When the user selects the other radio button, his option should be preserved in the cookie (browser storage)
 
 
--- You need to implement two applications, one using cookies and one using storage.
+* You need to implement two applications, one using cookies and one using storage.
 
--- Or you can implement the two functionalities in one app, but using two values: one stored in cookie, one stored in storage.
+* Or you can implement the two functionalities in one app, but using two values: one stored in cookie, one stored in storage.
