@@ -6,11 +6,11 @@
 
 3. Add two radio buttons with two available languages (e.g., en-US, ro-RO)
 
-○ The one whose value equals cookie’s value (storage value) should be “pre-selected”
+* The one whose value equals cookie’s value (storage value) should be “pre-selected”
 
-○ When the user selects the other radio button, his option should be preserved in the cookie (browser storage)
+* When the user selects the other radio button, his option should be preserved in the cookie (browser storage)
 
 
-You need to implement two applications, one using cookies and one using storage.
+-- You need to implement two applications, one using cookies and one using storage.
 
-Or you can implement the two functionalities in one app, but using two values: one stored in cookie, one stored in storage.
+-- Or you can implement the two functionalities in one app, but using two values: one stored in cookie, one stored in storage.
